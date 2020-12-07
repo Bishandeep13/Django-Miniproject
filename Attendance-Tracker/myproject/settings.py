@@ -26,7 +26,7 @@ SECRET_KEY = '*#2rqfaufm3xr&xyrxt$2!l&uaesvj_qw=b6%tej-!vj_1+&)s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['trackatd.herokuapp.com']
+ALLOWED_HOSTS = ['']
 
 
 # Application definition
